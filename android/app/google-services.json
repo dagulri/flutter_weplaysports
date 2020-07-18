@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288947154556",
+    "firebase_url": "https://weplaysports-db97b.firebaseio.com",
+    "project_id": "weplaysports-db97b",
+    "storage_bucket": "weplaysports-db97b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288947154556:android:187d70d91f13d37885a3f9",
+        "android_client_info": {
+          "package_name": "weplaysports.akasakaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288947154556-4aeb4u3lab97i0ts1bndm3i7jhovf0bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11fwFmdv5ZK7hBzDtU9nmd546396XLXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288947154556-4aeb4u3lab97i0ts1bndm3i7jhovf0bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288947154556-36r1d26ikuggfna7314275pevbbl3bde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterappweplaysports"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
